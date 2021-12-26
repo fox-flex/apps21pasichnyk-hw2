@@ -1,2 +1,2 @@
 # Immutable Collections
-UCU OOP 2021 homework 1
+UCU OOP 2021 homework 2
